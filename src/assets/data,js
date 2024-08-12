@@ -1,0 +1,42 @@
+export const data=[
+    {
+        Question: "Which device is required for the Internet Connection?",
+        option1: "Modem",
+        option2: "Router",
+        option3: "LAN Cable",
+        option4: "Pen Drive",
+        ans: 1,
+    },
+    {
+        Question: "Victoria Memorial is situated in which city of India?",
+        option1: "Asia",
+        option2: "Bihar",
+        option3: "Kolkata",
+        option4: "Bangalore",
+        ans: 3,
+    },
+    {
+        Question: "Where is the tower of silence situated??",
+        option1: "Asia",
+        option2: "India",
+        option3: "USA",
+        option4: "PAK",
+        ans: 2,
+    },
+    {
+        Question: "Which planet is closest to the Sun?",
+        option1: "Rose planet",
+        option2: "Mercury",
+        option3: "All",
+        option4: "Mango",
+        ans: 2,
+    },
+    {
+        Question: "Name one crop of Assam that is very famous?",
+        option1: "Orange",
+        option2: "Mango",
+        option3: "egg",
+        option4: "Tea",
+        ans: 4,
+    },
+]
